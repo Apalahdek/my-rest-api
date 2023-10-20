@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'StoreValzy'// yourname
-global.MONGO_DB_URI = "mongodb+srv://storevalzy:vf2N96HXvOTL8uOf@cluster0.grmbwsg.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://leopyth:h9TORXwECFrKvEOo@cluster0.wwqf20p.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "storevalzy@gmail.com" //email
 global.email_password = "thqcphxadrdwniqy" //application password email
